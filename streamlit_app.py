@@ -118,11 +118,11 @@ MODEL_CONFIGS = {
 }
 
 SAMPLE_IMAGES = {
-    "Anthracnose Sample": "../sample_images/Anthracnose.jpg",
-    "Canker Sample": "../sample_images/Canker.jpg",
-    "Healthy Leaf Sample": "../sample_images/Healthy.jpg",
-    "Dot Disease Sample": "../sample_images/Dot.jpg",
-    "Rust Sample": "../sample_images/Rust.jpg",
+    "Anthracnose Sample": "sample_images/Anthracnose.jpg",
+    "Canker Sample": "sample_images/Canker.jpg",
+    "Healthy Leaf Sample": "sample_images/Healthy.jpg",
+    "Dot Disease Sample": "sample_images/Dot.jpg",
+    "Rust Sample": "sample_images/Rust.jpg",
 }
 
 
