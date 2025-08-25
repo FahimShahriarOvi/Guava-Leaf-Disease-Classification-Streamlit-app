@@ -6,9 +6,10 @@ matplotlib
 seaborn
 lime
 scikit-image
-git+https://github.com/jacobgil/pytorch-grad-cam.git
+git+https://github.com/jacobgil/pytorch-grad-cam.git@master
 huggingface-hub
 scipy
-numpy
+numpy<2
 pandas
 Pillow
+opencv-python-headless
